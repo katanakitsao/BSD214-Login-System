@@ -23,3 +23,8 @@ maximum of three login attempts.
 1. Open Command Prompt or Terminal
 2. Navigate to the `src` directory
 3. Compile the program:
+
+
+## Author
+Name: Dennis Katana [BSCIT-05-0140/2024] 
+Unit: BSD 214 – Object Oriented Programming 2
